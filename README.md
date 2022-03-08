@@ -1,4 +1,4 @@
-# The Arise rabbitmq library
+# The RabbitMQ library (cunsumer & publisher)
 This library uses the streamway amqp library and is sort of a complement to it.
 
 ## 1. Installation
