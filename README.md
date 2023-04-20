@@ -1,4 +1,4 @@
-# The RabbitMQ library (cunsumer & publisher)
+# The RabbitMQ library (consumer & publisher)
 This library uses the streamway amqp library and is sort of a complement to it.
 
 ## 1. Installation
